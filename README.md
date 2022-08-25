@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Xiuyu Tang, a PhD student in material science and engineering at Texas A&M University
-- 👀 Even though I'm doing research on masterials, my favorate thing is web programming!
+- 👋 Hi, I’m Xiuyu Tang, a master student at Texas A&M University. I major in computer engineering and focus on software engineering area.
+- 👀 My favorate thing is programming! I'm interesting in computer networks and web programming.
 - 📫 We are actively building a life and study hub for college students: [gpace.com](https://gpace.com)
 - Since gpace is not a open source project, if you are also interested in it, feel free to contact us at this email: gpace@gpace.com
 
